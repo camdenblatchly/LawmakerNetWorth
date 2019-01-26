@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>CNW</title>
+  <meta name="primary author" content="Jim Vallandingham">
+  <meta name="instance author" content="Camden Blatchly">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bubble_chart.css">
+  <link rel="shortcut icon" href="#">
+    <style> /* set the CSS */
+
+    @font-face {
+      font-family: 'Futura';
+      src: url('src/Futura-Light.woff') format('woff');
+    }
+
+    * {
+      font-family: 'Futura';
+    }
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Congressional Net Worth</h1>
+    <div id="toolbar">
+      <a href="#" id="party" class="button">By Party</a>
+      <a href="#" id="all" class="button active">All Lawmakers</a>
+      <a href="#" id="chamber" class="button">By Chamber</a>
+      <a href="#" id="distribution" class="button">By Distribution</a> 
+      <!---<input id="searchBar" placeholder="Search">-->
+      <div class="slidecontainer">
+        <input type="range" min="2004" max="2014" value="2014" class="slider" id="myRange">
+      </div>
+      <h2 id="yearLabel">2014</h2>
+
+    </div>
+
+    <div id="vis"></div>
+
+  </div>
+  <div class="footer">
+      <p>Data for this project came from the Center for Responsive Politics. You can learn more about this organization at <a href="https://www.OpenSecrets.org">OpenSecrets.org</a> and you can explore the specific data used <a href="https://www.opensecrets.org/personal-finances">here</a>. Visualization design comes from a tutorial by 
+        <a href="http://vallandingham.me/">Jim Vallandingham</a>.</p>
+    </div>
+
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="src/tooltip.js"></script>
+  <script src="src/bubble_chart.js"></script>
+
+
+</body>
+</html>

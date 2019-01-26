@@ -1,0 +1,567 @@
+cid,name,minvalue,maxvalue,avgvalue,year,chamber,origin,source,serialid
+N00023864,Donald Trump (R),1041400345,1922787009,1482093677,2014,E,Center for Responsive Politics,,1
+N00007017,Darrell Issa (R-Calif),229650030,643350000,436500015,2014,H,Center for Responsive Politics,,2
+N00029127,Jared Polis (D-Colo),184536463,591191999,387864231,2014,H,Center for Responsive Politics,,3
+N00002097,Mark Warner (D-Va),90848261,394931000,242889630,2014,S,Center for Responsive Politics,,4
+N00033897,John K Delaney (D-Md),86498177,343306999,214902588,2014,H,Center for Responsive Politics,,5
+N00026460,Michael McCaul (R-Texas),119239810,201442053,160340931,2014,H,Center for Responsive Politics,,6
+N00035607,Dave Trott (R-Mich),54698157,172990995,113844576,2014,H,Center for Responsive Politics,,7
+N00027626,Vernon Buchanan (R-Fla),-19340847,233164989,106912071,2014,H,Center for Responsive Politics,,8
+N00007360,Nancy Pelosi (D-Calif),9761059,192784988,101273023,2014,H,Center for Responsive Politics,,9
+N00007364,Dianne Feinstein (D-Calif),49183119,139222023,94202571,2014,S,Center for Responsive Politics,,10
+N00031685,Richard Blumenthal (D-Conn),65384277,98106040,81745158,2014,S,Center for Responsive Politics,,11
+N00031539,Diane Black (R-Tenn),1446174,154065011,77755592,2014,H,Center for Responsive Politics,,12
+N00030693,Suzan DelBene (D-Wash),31019104,117585000,74302052,2014,H,Center for Responsive Politics,,13
+N00033591,Scott Peters (D-Calif),39631083,106196010,72913546,2014,H,Center for Responsive Politics,,14
+N00031348,Carly Fiorina (R),32192812,106622000,69407406,2014,E,Center for Responsive Politics,,15
+N00001285,Chris Collins (R-NY),23867028,108032000,65949514,2014,H,Center for Responsive Politics,,16
+N00028418,Alan Grayson (D-Fla),14858047,105321999,60090023,2014,H,Center for Responsive Politics,,17
+N00031127,Jim Renacci (R-Ohio),31571597,85593000,58582298,2014,H,Center for Responsive Politics,,18
+N00029441,James E Risch (R-Idaho),18587052,88212996,53400024,2014,S,Center for Responsive Politics,,19
+N00036155,Thomas MacArthur (R-NJ),5995906,99810999,52903452,2014,H,Center for Responsive Politics,,20
+N00000684,Rodney Frelinghuysen (R-NJ),24726209,81043000,52884604,2014,H,Center for Responsive Politics,,21
+N00036018,Don Beyer (D-Va),16652035,80779993,48716014,2014,H,Center for Responsive Politics,,22
+N00030602,Roger Williams (R-Texas),17915037,74703993,46309515,2014,H,Center for Responsive Politics,,23
+N00031688,John Hoeven (R-ND),17538081,73602000,45570040,2014,S,Center for Responsive Politics,,24
+N00027441,Bob Corker (R-Tenn),13975064,76974999,45475031,2014,S,Center for Responsive Politics,,25
+N00034044,Joe Kennedy III (D-Mass),19433267,66932998,43183132,2014,H,Center for Responsive Politics,,26
+N00004133,Fred Upton (R-Mich),17332186,68154999,42743592,2014,H,Center for Responsive Politics,,27
+N00032546,Ron Johnson (R-Wis),13351013,59866000,36608506,2014,S,Center for Responsive Politics,,28
+N00001024,Nita M Lowey (D-NY),13031023,59215000,36123011,2014,H,Center for Responsive Politics,,29
+N00035516,David Perdue (R-Ga),17281203,50082000,33681601,2014,S,Center for Responsive Politics,,30
+N00030962,Scott Rigell (R-Va),12895064,53679000,33287032,2014,H,Center for Responsive Politics,,31
+N00006423,Trent Franks (R-Ariz),11100004,55250000,33175002,2014,H,Center for Responsive Politics,,32
+N00000019,Hillary Clinton (D),11330008,52700000,32015004,2014,E,Center for Responsive Politics,,33
+N00009954,Lincoln Chafee (D),24604095,38363012,31483553,2014,E,Center for Responsive Politics,,34
+N00030197,Richard Hanna (R-NY),16127164,42095000,29111082,2014,H,Center for Responsive Politics,,35
+N00029679,John Fleming (R-La),10905058,47239997,29072527,2014,H,Center for Responsive Politics,,36
+N00000078,Carolyn B Maloney (D-NY),9148018,43895999,26522008,2014,H,Center for Responsive Politics,,37
+N00006023,Lloyd Doggett (D-Texas),12694065,39609999,26152032,2014,H,Center for Responsive Politics,,38
+N00036973,Ben Carson (R),11325058,40925001,26125029,2014,E,Center for Responsive Politics,,39
+N00027694,Claire McCaskill (D-Mo),18787227,31074009,24930618,2014,S,Center for Responsive Politics,,40
+N00002593,Johnny Isakson (R-Ga),9505023,40341000,24923011,2014,S,Center for Responsive Politics,,41
+N00037006,Jeb Bush (R),13229294,36593000,24911147,2014,E,Center for Responsive Politics,,42
+N00004291,F James Sensenbrenner Jr (R-Wis),20467690,28307637,24387663,2014,H,Center for Responsive Politics,,43
+N00012672,Steve Pearce (R-NM),7732015,36681000,22206507,2014,H,Center for Responsive Politics,,44
+N00003389,Mitch McConnell (R-Ky),9447058,34882000,22164529,2014,S,Center for Responsive Politics,,45
+N00033720,Richard W Allen (R-Ga),6939017,35884998,21412007,2014,H,Center for Responsive Politics,,46
+N00029139,Bill Foster (D-Ill),8321034,32565000,20443017,2014,H,Center for Responsive Politics,,47
+N00006424,John McCain (R-Ariz),14150132,25134002,19642067,2014,S,Center for Responsive Politics,,48
+N00029018,Tom Rooney (R-Fla),7427110,30803000,19115055,2014,H,Center for Responsive Politics,,49
+N00035854,Curt Clawson (R-Fla),5113043,32480997,18797020,2014,H,Center for Responsive Politics,,50
+N00028073,John A Yarmuth (D-Ky),5458058,31869998,18664028,2014,H,Center for Responsive Politics,,51
+N00035346,Buddy Carter (R-Ga),7865057,28700000,18282528,2014,H,Center for Responsive Politics,,52
+N00031647,Mike Kelly (R-Pa),8729153,26715000,17722076,2014,H,Center for Responsive Politics,,53
+N00031593,Jeff Denham (R-Calif),6400006,28249999,17325002,2014,H,Center for Responsive Politics,,54
+N00026710,Kenny Marchant (R-Texas),8836592,22736581,15786586,2014,H,Center for Responsive Politics,,55
+N00030026,Blaine Luetkemeyer (R-Mo),5466006,26065000,15765503,2014,H,Center for Responsive Politics,,56
+N00009778,John Kasich (R),9198188,22100000,15649094,2014,E,Center for Responsive Politics,,57
+N00003132,Jim Cooper (D-Tenn),7052058,23832000,15442029,2014,H,Center for Responsive Politics,,58
+N00033744,Rod Blum (R-Iowa),7908058,22895000,15401529,2014,H,Center for Responsive Politics,,59
+N00000615,Rosa L DeLauro (D-Conn),4934014,25491995,15213004,2014,H,Center for Responsive Politics,,60
+N00035688,Gwen Graham (D-Fla),4686012,25689998,15188005,2014,H,Center for Responsive Politics,,61
+N00033054,Steven Daines (R-Mont),6870034,23057000,14963517,2014,S,Center for Responsive Politics,,62
+N00003682,Rob Portman (R-Ohio),8046116,21050000,14548058,2014,S,Center for Responsive Politics,,63
+N00034416,Robert Pittenger (R-NC),3927052,24305998,14116525,2014,H,Center for Responsive Politics,,64
+N00026160,Tom Price (R-Ga),10791080,16489063,13640071,2014,H,Center for Responsive Politics,,65
+N00030608,Michael F Bennet (D-Colo),5587032,20880000,13233516,2014,S,Center for Responsive Politics,,66
+N00009888,Lamar Alexander (R-Tenn),4671040,21770997,13221018,2014,S,Center for Responsive Politics,,67
+N00026043,Randy Neugebauer (R-Texas),6522086,19416998,12969542,2014,H,Center for Responsive Politics,,68
+N00034580,Angus King (I-Maine),4485162,20868998,12677080,2014,S,Center for Responsive Politics,,69
+N00003845,Dan Coats (R-Ind),5937056,18762000,12349528,2014,S,Center for Responsive Politics,,70
+N99999925,Stephen G. Breyer,5645047,18320000,11982523,2014,J,Center for Responsive Politics,,71
+N00007539,Mike Huckabee (R),1080055,22676998,11878526,2014,E,Center for Responsive Politics,,72
+N00026041,Mike Conaway (R-Texas),5213342,17867000,11540171,2014,H,Center for Responsive Politics,,73
+N00028981,George Pataki (R),3776040,18951994,11364017,2014,E,Center for Responsive Politics,,74
+N00029788,Cynthia Marie Lummis (R-Wyo),2649014,19660998,11155006,2014,H,Center for Responsive Politics,,75
+N00034584,Bruce Poliquin (R-Maine),4353013,17895000,11124006,2014,H,Center for Responsive Politics,,76
+N00009920,Richard C Shelby (R-Ala),4183014,17646000,10914507,2014,S,Center for Responsive Politics,,77
+N00007724,Ron Wyden (D-Ore),7990076,13625004,10807540,2014,S,Center for Responsive Politics,,78
+N99999924,Ruth Bader Ginsburg,4930022,16265000,10597511,2014,J,Center for Responsive Politics,,79
+N00036633,Ralph Abraham (R-La),5513049,15394998,10454023,2014,H,Center for Responsive Politics,,80
+N00029649,Jackie Speier (D-Calif),5562075,15267000,10414537,2014,H,Center for Responsive Politics,,81
+N00031681,David McKinley (R-WVa),4388113,14995996,9692054,2014,H,Center for Responsive Politics,,82
+N00033540,Beto O'Rourke (D-Texas),-1065972,20070997,9502512,2014,H,Center for Responsive Politics,,83
+N00035492,Thom Tillis (R-NC),2831140,15059995,8945567,2014,S,Center for Responsive Politics,,84
+N00031820,Chris Coons (D-Del),5938059,11946003,8942031,2014,S,Center for Responsive Politics,,85
+N00029016,Al Franken (D-Minn),4190053,12852999,8521526,2014,S,Center for Responsive Politics,,86
+N00031005,Vicky Hartzler (R-Mo),2032028,14504995,8268511,2014,H,Center for Responsive Politics,,87
+N00031253,Keith J Rothfus (R-Pa),4888054,11020999,7954526,2014,H,Center for Responsive Politics,,88
+N00032838,Joe Manchin (D-WVa),3904072,11885000,7894536,2014,S,Center for Responsive Politics,,89
+N00007727,Earl Blumenauer (D-Ore),3637045,11627996,7632520,2014,H,Center for Responsive Politics,,90
+N00026686,Al Green (D-Texas),2680013,12449999,7565006,2014,H,Center for Responsive Politics,,91
+N99999926,Samuel A. Alito,3385072,11705000,7545036,2014,J,Center for Responsive Politics,,92
+N00003062,Jeff Sessions (R-Ala),3561070,11480000,7520535,2014,S,Center for Responsive Politics,,93
+N00033492,Elizabeth Warren (D-Mass),4259026,10710001,7484513,2014,S,Center for Responsive Politics,,94
+N00033106,Ann L Wagner (R-Mo),4395121,10348999,7372060,2014,H,Center for Responsive Politics,,95
+N00031557,Dennis Heck (D-Wash),4394068,10146999,7270533,2014,H,Center for Responsive Politics,,96
+N00031545,Bill Flores (R-Texas),2651013,11886997,7269005,2014,H,Center for Responsive Politics,,97
+N00030856,John Garamendi (D-Calif),2215020,12301996,7258508,2014,H,Center for Responsive Politics,,98
+N00035972,John Lee Ratcliffe (R-Texas),2522009,11744998,7133503,2014,H,Center for Responsive Politics,,99
+N99999922,John G. Roberts,4355036,9640000,6997518,2014,J,Center for Responsive Politics,,100
+N00033904,Joyce Beatty (D-Ohio),2499028,11485000,6992014,2014,H,Center for Responsive Politics,,101
+N00027533,Sheldon Whitehouse (D-RI),3051266,10590999,6821132,2014,S,Center for Responsive Politics,,102
+N00031672,Blake Farenthold (R-Texas),3097821,10105753,6601787,2014,H,Center for Responsive Politics,,103
+N00033399,George Holding (R-NC),2981039,10164999,6573019,2014,H,Center for Responsive Politics,,104
+N00029070,Jim Himes (D-Conn),3014049,9994999,6504524,2014,H,Center for Responsive Politics,,105
+N00002793,John L Mica (R-Fla),3252013,9632000,6442006,2014,H,Center for Responsive Politics,,106
+N00027509,Scott Tipton (R-Colo),2913070,9970000,6441535,2014,H,Center for Responsive Politics,,107
+N00036149,Debbie Dingell (D-Mich),3633121,9225000,6429060,2014,H,Center for Responsive Politics,,108
+N00005582,James M Inhofe (R-Okla),4631961,7959914,6295937,2014,S,Center for Responsive Politics,,109
+N00006460,David Schweikert (R-Ariz),1427011,10264997,5846004,2014,H,Center for Responsive Politics,,110
+N00030717,Ami Bera (D-Calif),2618070,8846993,5732531,2014,H,Center for Responsive Politics,,111
+N00004357,Paul Ryan (R-Wis),2342076,8980000,5661038,2014,H,Center for Responsive Politics,,112
+N00024866,Madeleine Z Bordallo (D-Guam),2430009,8699999,5565004,2014,H,Center for Responsive Politics,,113
+N00033217,Elizabeth Esty (D-Conn),3180092,7905000,5542546,2014,H,Center for Responsive Politics,,114
+N00030071,Kurt Schrader (D-Ore),2874133,7786000,5330066,2014,H,Center for Responsive Politics,,115
+N00033410,Markwayne Mullin (R-Okla),1850044,8702999,5276521,2014,H,Center for Responsive Politics,,116
+N00026166,Virginia Foxx (R-NC),2345027,8152000,5248513,2014,H,Center for Responsive Politics,,117
+N00006236,John A Barrasso (R-Wyo),2398015,8046000,5222007,2014,S,Center for Responsive Politics,,118
+N00012508,Tom Carper (D-Del),2673147,7627000,5150073,2014,S,Center for Responsive Politics,,119
+N00034349,Filemon Vela (D-Texas),-104010,10399975,5147982,2014,H,Center for Responsive Politics,,120
+N00003328,Thad Cochran (R-Miss),2753120,7494000,5123560,2014,S,Center for Responsive Politics,,121
+N00030676,Billy Long (R-Mo),2891098,7248000,5069549,2014,H,Center for Responsive Politics,,122
+N00009869,Orrin G Hatch (R-Utah),2113038,7806000,4959519,2014,S,Center for Responsive Politics,,123
+N00003225,Steve Cohen (D-Tenn),2710109,7153000,4931554,2014,H,Center for Responsive Politics,,124
+N00029675,Brett Guthrie (R-Ky),2063033,7526000,4794516,2014,H,Center for Responsive Politics,,125
+N00026341,Jim Costa (D-Calif),1777030,7755999,4766514,2014,H,Center for Responsive Politics,,126
+N00030191,Dina Titus (D-Nev),1853058,7633999,4743528,2014,H,Center for Responsive Politics,,127
+N00027522,Dean Heller (R-Nev),1025035,8455998,4740516,2014,S,Center for Responsive Politics,,128
+N00029026,Niki Tsongas (D-Mass),1298047,8144998,4721522,2014,H,Center for Responsive Politics,,129
+N00032457,Austin Scott (R-Ga),1642043,7701996,4672019,2014,H,Center for Responsive Politics,,130
+N00009922,Harry Reid (D-Nev),2740055,6535999,4638027,2014,S,Center for Responsive Politics,,131
+N00005195,Roy Blunt (R-Mo),1914023,7359999,4637011,2014,S,Center for Responsive Politics,,132
+N00001811,Lamar Smith (R-Texas),2629082,6560000,4594541,2014,H,Center for Responsive Politics,,133
+N00033474,Suzanne Bonamici (D-Ore),2752037,6430000,4591018,2014,H,Center for Responsive Politics,,134
+N00003675,John Boehner (R-Ohio),2315124,6700000,4507562,2014,H,Center for Responsive Politics,,135
+N00002424,Mark Sanford (R-SC),2829031,6185000,4507015,2014,H,Center for Responsive Politics,,136
+N00033782,Heidi Heitkamp (D-ND),2566074,6368000,4467037,2014,S,Center for Responsive Politics,,137
+N00034128,Matt Cartwright (D-Pa),1682980,7131953,4407466,2014,H,Center for Responsive Politics,,138
+N00033310,Brad Wenstrup (R-Ohio),2475060,6075000,4275030,2014,H,Center for Responsive Politics,,139
+N00033495,Susan Brooks (R-Ind),1584042,6894999,4239520,2014,H,Center for Responsive Politics,,140
+N00025726,Tom Cole (R-Okla),2478065,5996000,4237032,2014,H,Center for Responsive Politics,,141
+N00033631,Mark R Meadows (R-NC),1221019,7216999,4219009,2014,H,Center for Responsive Politics,,142
+N00033832,Tom Rice (R-SC),-15100976,23449992,4174508,2014,H,Center for Responsive Politics,,143
+N00003467,Ed Whitfield (R-Ky),2207077,5929999,4068538,2014,H,Center for Responsive Politics,,144
+N00027514,Kathy Castor (D-Fla),2505045,5602000,4053522,2014,H,Center for Responsive Politics,,145
+N00005293,Brad Ashford (D-Neb),2192126,5878000,4035063,2014,H,Center for Responsive Politics,,146
+N00031103,Bob Dold (R-Ill),1275028,6790998,4033013,2014,H,Center for Responsive Politics,,147
+N00029277,Gary Peters (D-Mich),1693180,6324000,4008590,2014,S,Center for Responsive Politics,,148
+N00000515,Peter Welch (D-Vt),2257071,5506000,3881535,2014,H,Center for Responsive Politics,,149
+N00003473,Hal Rogers (R-Ky),1782589,5831586,3807087,2014,H,Center for Responsive Politics,,150
+N00000898,Leonard Lance (R-NJ),2202063,5383000,3792531,2014,H,Center for Responsive Politics,,151
+N00001758,Chuck Grassley (R-Iowa),2114077,5411000,3762538,2014,S,Center for Responsive Politics,,152
+N00035278,Katherine Clark (D-Mass),1714158,5810000,3762079,2014,H,Center for Responsive Politics,,153
+N00024790,Jeanne Shaheen (D-NH),276032,7159988,3718010,2014,S,Center for Responsive Politics,,154
+N99999915,Sonia Sotomayor,1175009,6229999,3702504,2014,J,Center for Responsive Politics,,155
+N00009154,Bob Goodlatte (R-Va),2136050,4991000,3563525,2014,H,Center for Responsive Politics,,156
+N00033987,Doug LaMalfa (R-Calif),1281008,5716000,3498504,2014,H,Center for Responsive Politics,,157
+N00030600,Judy Chu (D-Calif),1864049,5084999,3474524,2014,H,Center for Responsive Politics,,158
+N00009926,Bill Nelson (D-Fla),1192024,5756000,3474012,2014,S,Center for Responsive Politics,,159
+N00006897,Brad Sherman (D-Calif),684014,6245998,3465006,2014,H,Center for Responsive Politics,,160
+N00013817,Chellie Pingree (D-Maine),1300003,5600000,3450001,2014,H,Center for Responsive Politics,,161
+N00007836,Maria Cantwell (D-Wash),1223011,5655999,3439505,2014,S,Center for Responsive Politics,,162
+N00035007,David P Joyce (R-Ohio),1780085,5000000,3390042,2014,H,Center for Responsive Politics,,163
+N00000179,James P McGovern (D-Mass),1219009,5560000,3389504,2014,H,Center for Responsive Politics,,164
+N00028463,Phil Roe (R-Tenn),3174454,3564449,3369451,2014,H,Center for Responsive Politics,,165
+N00002260,David Price (D-NC),1788085,4945000,3366542,2014,H,Center for Responsive Politics,,166
+N00001311,Louise M Slaughter (D-NY),2093027,4595000,3344013,2014,H,Center for Responsive Politics,,167
+N00001489,Pat Toomey (R-Pa),1874058,4811000,3342529,2014,S,Center for Responsive Politics,,168
+N00001619,Robert A Brady (D-Pa),2161014,4416000,3288507,2014,H,Center for Responsive Politics,,169
+N99999921,Antonin Scalia,1905021,4630000,3267510,2014,J,Center for Responsive Politics,,170
+N00000491,Susan Collins (R-Maine),1632099,4888000,3260049,2014,S,Center for Responsive Politics,,171
+N00000781,Frank Pallone Jr (D-NJ),1492143,4990999,3241571,2014,H,Center for Responsive Politics,,172
+N00006692,Barbara Boxer (D-Calif),1097007,5281000,3189003,2014,S,Center for Responsive Politics,,173
+N00033091,Patrick Murphy (D-Fla),1072010,5255000,3163505,2014,H,Center for Responsive Politics,,174
+N00003028,Robert B Aderholt (R-Ala),526019,5765999,3146009,2014,H,Center for Responsive Politics,,175
+N00005285,Pat Roberts (R-Kan),1911027,4351000,3131013,2014,S,Center for Responsive Politics,,176
+N00027239,Daniel Lipinski (D-Ill),1823048,4395000,3109024,2014,H,Center for Responsive Politics,,177
+N00006561,Tom Udall (D-NM),1861042,4345000,3103021,2014,S,Center for Responsive Politics,,178
+N00008274,Loretta Sanchez (D-Calif),552005,5629998,3091001,2014,H,Center for Responsive Politics,,179
+N00007312,Sam Farr (D-Calif),1811037,4315999,3063518,2014,H,Center for Responsive Politics,,180
+N00003950,Sander Levin (D-Mich),3037409,3072408,3054908,2014,H,Center for Responsive Politics,,181
+N00000751,Bill Pascrell Jr (D-NJ),1809043,4288000,3048521,2014,H,Center for Responsive Politics,,182
+N00033085,Ted Cruz (R-Texas),1447039,4579997,3013518,2014,S,Center for Responsive Politics,,183
+N00001955,Ben Cardin (D-Md),1431112,4578000,3004556,2014,S,Center for Responsive Politics,,184
+N00013873,John Boozman (R-Ark),1435050,4474999,2955024,2014,S,Center for Responsive Politics,,185
+N00007690,Greg Walden (R-Ore),1752030,4082000,2917015,2014,H,Center for Responsive Politics,,186
+N00029147,Andy Harris (R-Md),1618045,4196000,2907022,2014,H,Center for Responsive Politics,,187
+N00005818,Sheila Jackson Lee (D-Texas),163017,5638992,2901004,2014,H,Center for Responsive Politics,,188
+N00029303,Jeff Merkley (D-Ore),1836028,3965000,2900514,2014,S,Center for Responsive Politics,,189
+N00035774,Dan Sullivan (R-Alaska),1347040,4350997,2849018,2014,S,Center for Responsive Politics,,190
+N00034041,Thomas Massie (R-Ky),752003,4929999,2841001,2014,H,Center for Responsive Politics,,191
+N00012233,Robert E Latta (R-Ohio),1636042,3990000,2813021,2014,H,Center for Responsive Politics,,192
+N00031934,Dan Benishek (R-Mich),1503072,4024000,2763536,2014,H,Center for Responsive Politics,,193
+N00035187,Mike Rounds (R-SD),1850032,3635000,2742516,2014,S,Center for Responsive Politics,,194
+N00028139,Mazie K Hirono (D-Hawaii),1265039,4143998,2704518,2014,S,Center for Responsive Politics,,195
+N00024871,David Scott (D-Ga),531004,4864999,2698001,2014,H,Center for Responsive Politics,,196
+N00013799,Randy Forbes (R-Va),36012,5324997,2680504,2014,H,Center for Responsive Politics,,197
+N00002221,Richard Burr (R-NC),1947274,3325266,2636270,2014,S,Center for Responsive Politics,,198
+N00009771,Shelley Moore Capito (R-WVa),885119,4384995,2635057,2014,S,Center for Responsive Politics,,199
+N00031412,Mick Mulvaney (R-SC),941070,4322997,2632033,2014,H,Center for Responsive Politics,,200
+N00007479,Zoe Lofgren (D-Calif),1491045,3715000,2603022,2014,H,Center for Responsive Politics,,201
+N00031933,Bill Keating (D-Mass),1486040,3718000,2602020,2014,H,Center for Responsive Politics,,202
+N00030815,Chuck Fleischmann (R-Tenn),2003934,3053925,2528929,2014,H,Center for Responsive Politics,,203
+N00006263,Mike Simpson (R-Idaho),1241063,3567000,2404031,2014,H,Center for Responsive Politics,,204
+N00002893,Lois J Frankel (D-Fla),828166,3965000,2396583,2014,H,Center for Responsive Politics,,205
+N00009604,Susan A Davis (D-Calif),1173043,3594999,2384021,2014,H,Center for Responsive Politics,,206
+N00000267,Michael E Capuano (D-Mass),1079041,3656997,2368019,2014,H,Center for Responsive Politics,,207
+N00031128,Bob Gibbs (R-Ohio),872069,3779997,2326033,2014,H,Center for Responsive Politics,,208
+N00006134,Diana DeGette (D-Colo),1230063,3390000,2310031,2014,H,Center for Responsive Politics,,209
+N00007335,Anna Eshoo (D-Calif),1431011,3116000,2273505,2014,H,Center for Responsive Politics,,210
+N00029891,Gerry Connolly (D-Va),803051,3714995,2259023,2014,H,Center for Responsive Politics,,211
+N00005736,Brian Babin (R-Texas),1071084,3342000,2206542,2014,H,Center for Responsive Politics,,212
+N00007021,Juan Vargas (D-Calif),808031,3559998,2184014,2014,H,Center for Responsive Politics,,213
+N00000270,Ed Markey (D-Mass),1304025,3061000,2182512,2014,S,Center for Responsive Politics,,214
+N00007419,Mike Thompson (D-Calif),1097013,3130999,2114006,2014,H,Center for Responsive Politics,,215
+N00029459,Rob Wittman (R-Va),575116,3637998,2106557,2014,H,Center for Responsive Politics,,216
+N00001692,Eleanor Holmes Norton (D-DC),1380040,2801000,2090520,2014,H,Center for Responsive Politics,,217
+N00036154,Don Norcross (D-NJ),954058,3210998,2082528,2014,H,Center for Responsive Politics,,218
+N00033220,Ted Yoho (R-Fla),1365526,2784518,2075022,2014,H,Center for Responsive Politics,,219
+N00030245,Bill Cassidy (R-La),1105056,3000000,2052528,2014,S,Center for Responsive Politics,,220
+N00024922,Jeb Hensarling (R-Texas),1192033,2906000,2049016,2014,H,Center for Responsive Politics,,221
+N00009724,Jim Langevin (D-RI),352025,3619994,1986009,2014,H,Center for Responsive Politics,,222
+N00030875,Ann Mclane Kuster (D-NH),1752619,2202616,1977617,2014,H,Center for Responsive Politics,,223
+N00004981,Dick Durbin (D-Ill),1951506,1952506,1952006,2014,S,Center for Responsive Politics,,224
+N00029285,Pete Olson (R-Texas),1079043,2761000,1920021,2014,H,Center for Responsive Politics,,225
+N00024759,Mike D Rogers (R-Ala),1170018,2650000,1910009,2014,H,Center for Responsive Politics,,226
+N00033274,Alan Lowenthal (D-Calif),948054,2773000,1860527,2014,H,Center for Responsive Politics,,227
+N00009795,Candice S Miller (R-Mich),991024,2716999,1854011,2014,H,Center for Responsive Politics,,228
+N00007099,Ken Calvert (R-Calif),-6299988,9949993,1825002,2014,H,Center for Responsive Politics,,229
+N00012739,Ander Crenshaw (R-Fla),1048015,2545000,1796507,2014,H,Center for Responsive Politics,,230
+N99999916,Elena Kagan,1035019,2495000,1765009,2014,J,Center for Responsive Politics,,231
+N00034254,Julia Brownley (D-Calif),486037,3042999,1764518,2014,H,Center for Responsive Politics,,232
+N00013323,Sam Graves (R-Mo),1087008,2440998,1764003,2014,H,Center for Responsive Politics,,233
+N00031938,Justin Amash (R-Mich),1043024,2470000,1756512,2014,H,Center for Responsive Politics,,234
+N00009585,Adam Schiff (D-Calif),867043,2605000,1736021,2014,H,Center for Responsive Politics,,235
+N00009774,Xavier Becerra (D-Calif),683061,2770998,1727029,2014,H,Center for Responsive Politics,,236
+N00000964,Charles B Rangel (D-NY),1009021,2410000,1709510,2014,H,Center for Responsive Politics,,237
+N00008799,Kay Granger (R-Texas),831014,2549998,1690506,2014,H,Center for Responsive Politics,,238
+N00027605,Jon Tester (D-Mont),1082007,2230000,1656003,2014,S,Center for Responsive Politics,,239
+N00004403,Ron Kind (D-Wis),1033022,2272000,1652511,2014,H,Center for Responsive Politics,,240
+N00009829,Jim McDermott (D-Wash),1388495,1916492,1652493,2014,H,Center for Responsive Politics,,241
+N00013846,Jeff Miller (R-Fla),1012012,2179998,1596005,2014,H,Center for Responsive Politics,,242
+N00009659,David Vitter (R-La),818043,2323000,1570521,2014,S,Center for Responsive Politics,,243
+N00004558,Collin Peterson (D-Minn),529020,2610997,1570008,2014,H,Center for Responsive Politics,,244
+N00030650,Frederica Wilson (D-Fla),961012,2165000,1563006,2014,H,Center for Responsive Politics,,245
+N00030891,Marlin Stutzman (R-Ind),914018,2194999,1554508,2014,H,Center for Responsive Politics,,246
+N00036023,Barbara Comstock (R-Va),676053,2427997,1552025,2014,H,Center for Responsive Politics,,247
+N00003813,Pete Visclosky (D-Ind),922019,2180000,1551009,2014,H,Center for Responsive Politics,,248
+N00007876,Patty Murray (D-Wash),899019,2186000,1542509,2014,S,Center for Responsive Politics,,249
+N00035531,Evan Jenkins (R-WVa),693057,2348000,1520528,2014,H,Center for Responsive Politics,,250
+N00005559,Frank D Lucas (R-Okla),650014,2359997,1505005,2014,H,Center for Responsive Politics,,251
+N00004874,Luis V Gutierrez (D-Ill),876024,2115000,1495512,2014,H,Center for Responsive Politics,,252
+N00025219,Michael Burgess (R-Texas),809060,2179000,1494030,2014,H,Center for Responsive Politics,,253
+N00034547,Grace Meng (D-NY),714043,2268999,1491521,2014,H,Center for Responsive Politics,,254
+N00035544,Ben Sasse (R-Neb),461055,2490999,1476027,2014,S,Center for Responsive Politics,,255
+N00029273,Aaron Schock (R-Ill),600005,2349998,1475001,2014,H,Center for Responsive Politics,,256
+N00033177,Tim Kaine (D-Va),808037,2095000,1451518,2014,S,Center for Responsive Politics,,257
+N00026050,Lisa Murkowski (R-Alaska),631039,2217999,1424519,2014,S,Center for Responsive Politics,,258
+N00027459,Doris O Matsui (D-Calif),812023,2031000,1421511,2014,H,Center for Responsive Politics,,259
+N00035691,Gary Palmer (R-Ala),330100,2503999,1417049,2014,H,Center for Responsive Politics,,260
+N00035403,Carlos Curbelo (R-Fla),524087,2274999,1399543,2014,H,Center for Responsive Politics,,261
+N00025495,Lou Barletta (R-Pa),-38939,2766998,1364029,2014,H,Center for Responsive Politics,,262
+N00001633,Joe Pitts (R-Pa),861008,1815000,1338004,2014,H,Center for Responsive Politics,,263
+N00035380,Bradley Byrne (R-Ala),664053,1990998,1327525,2014,H,Center for Responsive Politics,,264
+N00035628,Cresent Hardy (R-Nev),-3203990,5849998,1323004,2014,H,Center for Responsive Politics,,265
+N00036449,Mike Bishop (R-Mich),644060,1986000,1315030,2014,H,Center for Responsive Politics,,266
+N00027035,G K Butterfield (D-NC),-166973,2795991,1314509,2014,H,Center for Responsive Politics,,267
+N00025482,Dutch Ruppersberger (D-Md),279029,2294997,1287013,2014,H,Center for Responsive Politics,,268
+N00026314,Cathy McMorris Rodgers (R-Wash),222021,2304997,1263509,2014,H,Center for Responsive Politics,,269
+N00009699,Patrick J Tiberi (R-Ohio),605030,1875999,1240514,2014,H,Center for Responsive Politics,,270
+N00035535,Mark Takai (D-Hawaii),498036,1970999,1234517,2014,H,Center for Responsive Politics,,271
+N00005282,Jerry Moran (R-Kan),646026,1817000,1231513,2014,S,Center for Responsive Politics,,272
+N00030829,Kenneth R Buck (R-Colo),610011,1801999,1206005,2014,H,Center for Responsive Politics,,273
+N00030980,Kelly Ayotte (R-NH),570014,1824999,1197506,2014,S,Center for Responsive Politics,,274
+N00030836,Rand Paul (R-Ky),585036,1801000,1193018,2014,S,Center for Responsive Politics,,275
+N00002147,Bobby Scott (D-Va),42081,2339996,1191038,2014,H,Center for Responsive Politics,,276
+N00029260,Ann Kirkpatrick (D-Ariz),651018,1710998,1181008,2014,H,Center for Responsive Politics,,277
+N00030968,Reid Ribble (R-Wis),172031,2184999,1178515,2014,H,Center for Responsive Politics,,278
+N00036403,Daniel Milton Newhouse (R-Wash),708013,1645000,1176506,2014,H,Center for Responsive Politics,,279
+N00031958,Steven Palazzo (R-Miss),359021,1979996,1169508,2014,H,Center for Responsive Politics,,280
+N00030768,Martha Roby (R-Ala),593039,1731999,1162519,2014,H,Center for Responsive Politics,,281
+N00029574,Steve Stivers (R-Ohio),537046,1782000,1159523,2014,H,Center for Responsive Politics,,282
+N00001971,Elijah E Cummings (D-Md),194014,2110997,1152505,2014,H,Center for Responsive Politics,,283
+N00007999,Don Young (R-Alaska),681009,1565000,1123004,2014,H,Center for Responsive Politics,,284
+N00031227,Larry Bucshon (R-Ind),1104097,1140095,1122096,2014,H,Center for Responsive Politics,,285
+N00032019,David Cicilline (D-RI),702004,1514999,1108501,2014,H,Center for Responsive Politics,,286
+N00007781,Peter DeFazio (D-Ore),617020,1580999,1099009,2014,H,Center for Responsive Politics,,287
+N00030752,Jeff Duncan (R-SC),296019,1899996,1098007,2014,H,Center for Responsive Politics,,288
+N00000851,Frank A LoBiondo (R-NJ),50106,2126998,1088552,2014,H,Center for Responsive Politics,,289
+N00027500,Amy Klobuchar (D-Minn),550030,1579000,1064515,2014,S,Center for Responsive Politics,,290
+N00013770,Bill Shuster (R-Pa),629020,1462000,1045510,2014,H,Center for Responsive Politics,,291
+N00036135,Garret Graves (R-La),606019,1418000,1012009,2014,H,Center for Responsive Politics,,292
+N00006249,Mike Enzi (R-Wyo),387057,1631000,1009028,2014,S,Center for Responsive Politics,,293
+N00029168,Pedro Pierluisi (D-PR),786004,1229995,1007999,2014,H,Center for Responsive Politics,,294
+N00006671,Lucille Roybal-Allard (D-Calif),597008,1415999,1006503,2014,H,Center for Responsive Politics,,295
+N00034068,Brenda Lawrence (D-Mich),527019,1439999,983509,2014,H,Center for Responsive Politics,,296
+N00026595,Charles W Boustany Jr (R-La),825070,1118063,971566,2014,H,Center for Responsive Politics,,297
+N00012611,Mike Honda (D-Calif),583010,1345000,964005,2014,H,Center for Responsive Politics,,298
+N00034224,Paul Cook (R-Calif),558016,1347000,952508,2014,H,Center for Responsive Politics,,299
+N00027751,John Sarbanes (D-Md),578014,1295000,936507,2014,H,Center for Responsive Politics,,300
+N00004719,Peter Roskam (R-Ill),415043,1450000,932521,2014,H,Center for Responsive Politics,,301
+N00031317,Ted Deutch (D-Fla),411043,1445000,928021,2014,H,Center for Responsive Politics,,302
+N00034120,Scott Perry (R-Pa),313020,1469997,891508,2014,H,Center for Responsive Politics,,303
+N99999923,Anthony M. Kennedy,580004,1200000,890002,2014,J,Center for Responsive Politics,,304
+N00030788,Tom Graves (R-Ga),386014,1389999,888006,2014,H,Center for Responsive Politics,,305
+N00036409,Glenn S Grothman (R-Wis),481016,1290000,885508,2014,H,Center for Responsive Politics,,306
+N00006267,Mike Crapo (R-Idaho),484278,1283274,883776,2014,S,Center for Responsive Politics,,307
+N00030771,Paul Gosar (R-Ariz),515003,1249999,882501,2014,H,Center for Responsive Politics,,308
+N00030673,Bill Huizenga (R-Mich),525015,1202000,863507,2014,H,Center for Responsive Politics,,309
+N00021207,Rick Nolan (D-Minn),518008,1195000,856504,2014,H,Center for Responsive Politics,,310
+N00030801,Frank Guinta (R-NH),46024,1661996,854010,2014,H,Center for Responsive Politics,,311
+N99999918,Clarence Thomas,470011,1235000,852505,2014,J,Center for Responsive Politics,,312
+N00024992,Tim Murphy (R-Pa),389039,1310000,849519,2014,H,Center for Responsive Politics,,313
+N00008122,Eddie Bernice Johnson (D-Texas),531004,1115000,823002,2014,H,Center for Responsive Politics,,314
+N00012546,Luke Messer (R-Ind),282038,1349998,816018,2014,H,Center for Responsive Politics,,315
+N00031741,Todd Rokita (R-Ind),-945,1619996,809525,2014,H,Center for Responsive Politics,,316
+N00026586,Joe Donnelly (D-Ind),186011,1425998,806004,2014,S,Center for Responsive Politics,,317
+N00003689,Steve Chabot (R-Ohio),397025,1180000,788512,2014,H,Center for Responsive Politics,,318
+N00033390,Cheri Bustos (D-Ill),357028,1205000,781014,2014,H,Center for Responsive Politics,,319
+N00001093,Charles E Schumer (D-NY),438016,1120000,779008,2014,S,Center for Responsive Politics,,320
+N00034277,Sean Patrick Maloney (D-NY),502003,1030000,766001,2014,H,Center for Responsive Politics,,321
+N00030736,John Carney (D-Del),319040,1211000,765020,2014,H,Center for Responsive Politics,,322
+N00003288,Bennie G Thompson (D-Miss),369025,1161000,765012,2014,H,Center for Responsive Politics,,323
+N00026926,Jerry McNerney (D-Calif),501004,1017000,759002,2014,H,Center for Responsive Politics,,324
+N00033982,Martha McSally (R-Ariz),362037,1149000,755518,2014,H,Center for Responsive Politics,,325
+N00031141,Steve Fincher (R-Tenn),500001,1000000,750000,2014,H,Center for Responsive Politics,,326
+N00030645,Dennis Ross (R-Fla),-3514998,4989999,737500,2014,H,Center for Responsive Politics,,327
+N00001102,Nydia M Velazquez (D-NY),485001,990000,737500,2014,H,Center for Responsive Politics,,328
+N00027464,Bruce Braley (D-Iowa),370020,1100000,735010,2014,H,Center for Responsive Politics,,329
+N00032088,Bill Johnson (R-Ohio),323029,1095000,709014,2014,H,Center for Responsive Politics,,330
+N00029077,Lynn Jenkins (R-Kan),323015,1094999,709007,2014,H,Center for Responsive Politics,,331
+N00000362,Jack Reed (D-RI),181062,1198000,689531,2014,S,Center for Responsive Politics,,332
+N00036158,Bonnie Coleman (D-NJ),250003,1119997,685000,2014,H,Center for Responsive Politics,,333
+N00013855,Stephen F Lynch (D-Mass),-21982,1381997,680007,2014,H,Center for Responsive Politics,,334
+N00035825,Ted Lieu (D-Calif),295039,1062000,678519,2014,H,Center for Responsive Politics,,335
+N00030910,Mo Brooks (R-Ala),283040,1072000,677520,2014,H,Center for Responsive Politics,,336
+N00036928,Don Donovan (R-NY),365007,985999,675503,2014,H,Center for Responsive Politics,,337
+N00035616,Ryan K Zinke (R-Mont),101007,1249997,675502,2014,H,Center for Responsive Politics,,338
+N00030490,Marcia L Fudge (D-Ohio),106011,1239998,673004,2014,H,Center for Responsive Politics,,339
+N00035391,Mimi Walters (R-Calif),231008,1114999,673003,2014,H,Center for Responsive Politics,,340
+N00032441,Richard Nugent (R-Fla),242538,1099525,671031,2014,H,Center for Responsive Politics,,341
+N00027503,Bob Casey (D-Pa),335018,1002000,668509,2014,S,Center for Responsive Politics,,342
+N00033030,Jared Huffman (D-Calif),-315951,1636998,660523,2014,H,Center for Responsive Politics,,343
+N00006806,Janice Hahn (D-Calif),290024,1025000,657512,2014,H,Center for Responsive Politics,,344
+N00026335,Daniel Webster (R-Fla),384008,910000,647004,2014,H,Center for Responsive Politics,,345
+N00024978,Henry Cuellar (D-Texas),30017,1260998,645507,2014,H,Center for Responsive Politics,,346
+N00008264,Ed Royce (R-Calif),346017,941000,643508,2014,H,Center for Responsive Politics,,347
+N00003105,Marsha Blackburn (R-Tenn),346016,940000,643008,2014,H,Center for Responsive Politics,,348
+N00024809,Joe Wilson (R-SC),-529990,1814993,642501,2014,H,Center for Responsive Politics,,349
+N00036013,Dave Brat (R-Va),337014,930000,633507,2014,H,Center for Responsive Politics,,350
+N00004961,John M Shimkus (R-Ill),117009,1149999,633504,2014,H,Center for Responsive Politics,,351
+N00033539,Randy Weber (R-Texas),251005,1014999,633002,2014,H,Center for Responsive Politics,,352
+N00006789,Grace Napolitano (D-Calif),268006,994999,631502,2014,H,Center for Responsive Politics,,353
+N00003535,Sherrod Brown (D-Ohio),382006,880000,631003,2014,S,Center for Responsive Politics,,354
+N00031777,Tom Marino (R-Pa),241043,1020035,630539,2014,H,Center for Responsive Politics,,355
+N00008046,Barbara Lee (D-Calif),260020,999998,630009,2014,H,Center for Responsive Politics,,356
+N00027510,Edwin G Perlmutter (D-Colo),365018,882000,623509,2014,H,Center for Responsive Politics,,357
+N00026627,Patrick McHenry (R-NC),244015,995998,620006,2014,H,Center for Responsive Politics,,358
+N00024842,Joe Courtney (D-Conn),268030,970000,619015,2014,H,Center for Responsive Politics,,359
+N00029662,Bill Posey (R-Fla),182011,1032999,607505,2014,H,Center for Responsive Politics,,360
+N00024753,Mike Coffman (R-Colo),353008,845000,599004,2014,H,Center for Responsive Politics,,361
+N00036275,John Moolenaar (R-Mich),125079,1067000,596039,2014,H,Center for Responsive Politics,,362
+N00034453,Derek Kilmer (D-Wash),215036,968000,591518,2014,H,Center for Responsive Politics,,363
+N00029391,Erik Paulsen (R-Minn),234036,940000,587018,2014,H,Center for Responsive Politics,,364
+N00026171,Charlie Dent (R-Pa),201043,968000,584521,2014,H,Center for Responsive Politics,,365
+N00036097,Ruben Gallego (D-Ariz),117017,1041998,579507,2014,H,Center for Responsive Politics,,366
+N00035483,Joni Ernst (R-Iowa),206032,950999,578515,2014,S,Center for Responsive Politics,,367
+N00028958,Jason Chaffetz (R-Utah),68013,1069999,569006,2014,H,Center for Responsive Politics,,368
+N00035282,Jason Smith (R-Mo),-438971,1570993,566011,2014,H,Center for Responsive Politics,,369
+N00035267,Cory Booker (D-NJ),351003,775000,563001,2014,S,Center for Responsive Politics,,370
+N00004614,Kevin Cramer (R-ND),252022,832000,542011,2014,H,Center for Responsive Politics,,371
+N00024852,John Cornyn (R-Texas),253017,822999,538008,2014,S,Center for Responsive Politics,,372
+N00027741,David Loebsack (D-Iowa),262018,807000,534509,2014,H,Center for Responsive Politics,,373
+N00005870,Gene Green (D-Texas),295006,750000,522503,2014,H,Center for Responsive Politics,,374
+N00002299,Walter B Jones Jr (R-NC),289014,737000,513007,2014,H,Center for Responsive Politics,,375
+N00005883,Kevin Brady (R-Texas),214025,786000,500012,2014,H,Center for Responsive Politics,,376
+N00001945,Barbara A Mikulski (D-Md),228017,771000,499508,2014,S,Center for Responsive Politics,,377
+N00027860,Tammy Duckworth (D-Ill),57051,910999,484025,2014,H,Center for Responsive Politics,,378
+N00002408,James E Clyburn (D-SC),211022,741000,476011,2014,H,Center for Responsive Politics,,379
+N00031857,Steve Womack (R-Ark),270010,675000,472505,2014,H,Center for Responsive Politics,,380
+N00006052,Mac Thornberry (R-Texas),273010,670000,471505,2014,H,Center for Responsive Politics,,381
+N00002858,Ileana Ros-Lehtinen (R-Fla),302005,631000,466502,2014,H,Center for Responsive Politics,,382
+N00000743,Scott Garrett (R-NJ),250012,676000,463006,2014,H,Center for Responsive Politics,,383
+N00013820,Chris Van Hollen (D-Md),226016,690000,458008,2014,H,Center for Responsive Politics,,384
+N00031244,Joe Heck (R-Nev),191017,700999,446008,2014,H,Center for Responsive Politics,,385
+N00012539,Mark Kirk (R-Ill),207009,675998,441503,2014,S,Center for Responsive Politics,,386
+N00027229,Michael G Fitzpatrick (R-Pa),126036,755000,440518,2014,H,Center for Responsive Politics,,387
+N00035440,Tom Emmer (R-Minn),130004,749999,440001,2014,H,Center for Responsive Politics,,388
+N00006690,Maxine Waters (D-Calif),-4098986,4974997,438005,2014,H,Center for Responsive Politics,,389
+N00030957,Scott Desjarlais (R-Tenn),130015,744997,437506,2014,H,Center for Responsive Politics,,390
+N00000528,Bernie Sanders (I-Vt),123027,748999,436013,2014,S,Center for Responsive Politics,,391
+N00029400,Michelle Lujan Grisham (D-NM),200004,669998,435001,2014,H,Center for Responsive Politics,,392
+N00035420,Mike Bost (R-Ill),43019,819999,431509,2014,H,Center for Responsive Politics,,393
+N00001127,Joseph Crowley (D-NY),137043,716000,426521,2014,H,Center for Responsive Politics,,394
+N00035717,David Jolly (R-Fla),197014,655000,426007,2014,H,Center for Responsive Politics,,395
+N00033363,Tom Cotton (R-Ark),163022,674000,418511,2014,S,Center for Responsive Politics,,396
+N00004572,John Thune (R-SD),177023,658000,417511,2014,S,Center for Responsive Politics,,397
+N00027462,Gus Bilirakis (R-Fla),58046,775000,416523,2014,H,Center for Responsive Politics,,398
+N00004367,Tammy Baldwin (D-Wis),266003,565000,415501,2014,S,Center for Responsive Politics,,399
+N00025095,John Carter (R-Texas),115003,699999,407501,2014,H,Center for Responsive Politics,,400
+N00035451,Alma Adams (D-NC),265002,550000,407501,2014,H,Center for Responsive Politics,,401
+N00033932,Chris Stewart (R-Utah),251003,555000,403001,2014,H,Center for Responsive Politics,,402
+N00003522,Marcy Kaptur (D-Ohio),186019,616000,401009,2014,H,Center for Responsive Politics,,403
+N00033510,Raul Ruiz (D-Calif),65013,724999,395006,2014,H,Center for Responsive Politics,,404
+N00033814,Alex Mooney (R-Md),182013,605000,393506,2014,H,Center for Responsive Politics,,405
+N00030622,Terri A Sewell (D-Ala),-38982,819998,390508,2014,H,Center for Responsive Politics,,406
+N00035527,Bruce Westerman (R-Ark),387216,387216,387216,2014,H,Center for Responsive Politics,,407
+N00026885,Dave Reichert (R-Wash),210006,550000,380003,2014,H,Center for Responsive Politics,,408
+N00033443,Deb Fischer (R-Neb),-4189993,4949998,380002,2014,S,Center for Responsive Politics,,409
+N00007833,Adam Smith (D-Wash),213010,545000,379005,2014,H,Center for Responsive Politics,,410
+N00035509,David Young (R-Iowa),250001,500000,375000,2014,H,Center for Responsive Politics,,411
+N00030612,Marco Rubio (R-Fla),37012,704999,371005,2014,S,Center for Responsive Politics,,412
+N00004436,John Kline (R-Minn),205009,526000,365504,2014,H,Center for Responsive Politics,,413
+N00031134,Patrick Meehan (R-Pa),107024,595000,351012,2014,H,Center for Responsive Politics,,414
+N00000699,Robert Menendez (D-NJ),117005,579998,348501,2014,S,Center for Responsive Politics,,415
+N00031877,Karen Bass (D-Calif),195005,500000,347502,2014,H,Center for Responsive Politics,,416
+N00030744,Mike Pompeo (R-Kan),149022,541000,345011,2014,H,Center for Responsive Politics,,417
+N00033518,Doug Collins (R-Ga),118006,564998,341502,2014,H,Center for Responsive Politics,,418
+N00031233,Andy Barr (R-Ky),131018,540000,335509,2014,H,Center for Responsive Politics,,419
+N00027623,Adrian Smith (R-Neb),84015,584999,334507,2014,H,Center for Responsive Politics,,420
+N00033527,David Rouzer (R-NC),-238972,903996,332512,2014,H,Center for Responsive Politics,,421
+N00033549,Mark Pocan (D-Wis),185001,474999,330000,2014,H,Center for Responsive Politics,,422
+N00033842,Mia Love (R-Utah),141015,516000,328507,2014,H,Center for Responsive Politics,,423
+N00001193,Pete King (R-NY),200003,450000,325001,2014,H,Center for Responsive Politics,,424
+N00035927,Kathleen Rice (D-NY),157010,480000,318505,2014,H,Center for Responsive Politics,,425
+N00000575,John B Larson (D-Conn),39041,587000,313020,2014,H,Center for Responsive Politics,,426
+N00003209,John J Duncan Jr (R-Tenn),164010,460000,312005,2014,H,Center for Responsive Politics,,427
+N00009759,Rick Larsen (D-Wash),131019,490000,310509,2014,H,Center for Responsive Politics,,428
+N00034784,Rodney Davis (R-Ill),134015,485000,309507,2014,H,Center for Responsive Politics,,429
+N00028152,Kevin McCarthy (R-Calif),182008,431000,306504,2014,H,Center for Responsive Politics,,430
+N00009975,Lindsey Graham (R-SC),-48981,640999,296009,2014,S,Center for Responsive Politics,,431
+N00026457,Ted Poe (R-Texas),-9985,599999,295007,2014,H,Center for Responsive Politics,,432
+N00024870,Linda Sanchez (D-Calif),-432977,1017998,292510,2014,H,Center for Responsive Politics,,433
+N00031129,James Lankford (R-Okla),55021,527999,291510,2014,S,Center for Responsive Politics,,434
+N00025280,Tim Ryan (D-Ohio),-29990,610998,290504,2014,H,Center for Responsive Politics,,435
+N00005681,Pete Sessions (R-Texas),45025,534999,290012,2014,H,Center for Responsive Politics,,436
+N00003280,Roger Wicker (R-Miss),-401984,973997,286006,2014,S,Center for Responsive Politics,,437
+N00035792,French Hill (R-Ark),56010,514998,285504,2014,H,Center for Responsive Politics,,438
+N00009573,Jeff Flake (R-Ariz),51003,514999,283001,2014,S,Center for Responsive Politics,,439
+N00029562,Ben R Lujan (D-NM),146005,415000,280502,2014,H,Center for Responsive Politics,,440
+N00025284,Raul M Grijalva (D-Ariz),75026,475000,275013,2014,H,Center for Responsive Politics,,441
+N00031226,Jackie Walorski (R-Ind),67026,481000,274013,2014,H,Center for Responsive Politics,,442
+N00029736,Glenn Thompson (R-Pa),107010,440999,274004,2014,H,Center for Responsive Politics,,443
+N00001373,Mike Doyle (D-Pa),110005,434999,272502,2014,H,Center for Responsive Politics,,444
+N00035523,Elise Stefanik (R-NY),19006,509999,264502,2014,H,Center for Responsive Politics,,445
+N00033640,Hakeem Jeffries (D-NY),98014,420000,259007,2014,H,Center for Responsive Politics,,446
+N00004884,Danny K Davis (D-Ill),121012,394000,257506,2014,H,Center for Responsive Politics,,447
+N00009918,Patrick Leahy (D-Vt),154007,360000,257003,2014,S,Center for Responsive Politics,,448
+N00037031,Darin LaHood (R-Ill),42029,456000,249014,2014,H,Center for Responsive Politics,,449
+N00032416,Rob Woodall (R-Ga),120008,376000,248004,2014,H,Center for Responsive Politics,,450
+N00033395,Dan Kildee (D-Mich),110006,384999,247502,2014,H,Center for Responsive Politics,,451
+N00026631,Jeff Fortenberry (R-Neb),-3948989,4439998,245504,2014,H,Center for Responsive Politics,,452
+N00035215,Robin Kelly (D-Ill),41028,441000,241014,2014,H,Center for Responsive Politics,,453
+N00027566,Christopher S Murphy (D-Conn),38011,439998,239004,2014,S,Center for Responsive Politics,,454
+N00026106,Debbie Wasserman Schultz (D-Fla),-177975,651996,237010,2014,H,Center for Responsive Politics,,455
+N00004724,Jan Schakowsky (D-Ill),7021,462999,235010,2014,H,Center for Responsive Politics,,456
+N00036175,Steven Russell (R-Okla),-182993,650997,234002,2014,H,Center for Responsive Politics,,457
+N00032029,Morgan Griffith (R-Va),15002,449999,232500,2014,H,Center for Responsive Politics,,458
+N00030709,Mark Desaulnier (D-Calif),118006,346000,232003,2014,H,Center for Responsive Politics,,459
+N00027658,Kirsten Gillibrand (D-NY),118005,345000,231502,2014,S,Center for Responsive Politics,,460
+N00006446,Matt Salmon (R-Ariz),81012,380000,230506,2014,H,Center for Responsive Politics,,461
+N00031782,Tim Scott (R-SC),37010,404999,221004,2014,S,Center for Responsive Politics,,462
+N00025237,Steven A King (R-Iowa),71016,366000,218508,2014,H,Center for Responsive Politics,,463
+N00031696,Mike Lee (R-Utah),116005,305000,210502,2014,S,Center for Responsive Politics,,464
+N00030780,Cory Gardner (R-Colo),24018,394999,209508,2014,S,Center for Responsive Politics,,465
+N00027894,Jim Jordan (R-Ohio),69007,345999,207503,2014,H,Center for Responsive Politics,,466
+N00030184,Cedric Richmond (D-La),52006,351998,202002,2014,H,Center for Responsive Politics,,467
+N00034639,Donald M Payne Jr (D-NJ),117006,281000,199003,2014,H,Center for Responsive Politics,,468
+N00030667,Adam Kinzinger (R-Ill),68005,329999,199002,2014,H,Center for Responsive Politics,,469
+N00035820,Steve Knight (R-Calif),-525984,919996,197006,2014,H,Center for Responsive Politics,,470
+N00033373,Tony Cardenas (D-Calif),1013,390998,196005,2014,H,Center for Responsive Politics,,471
+N00033630,Richard Hudson (R-NC),82007,310000,196003,2014,H,Center for Responsive Politics,,472
+N00028138,Brian Schatz (D-Hawaii),57015,334000,195507,2014,S,Center for Responsive Politics,,473
+N00030418,Gregorio Sablan (D-MP),97006,280000,188503,2014,H,Center for Responsive Politics,,474
+N00026368,Tim Walberg (R-Mich),56014,315000,185507,2014,H,Center for Responsive Politics,,475
+N00031502,Kevin Yoder (R-Kan),-246972,615996,184512,2014,H,Center for Responsive Politics,,476
+N00033281,Tulsi Gabbard (D-Hawaii),74008,293000,183504,2014,H,Center for Responsive Politics,,477
+N00031177,Mark Amodei (R-Nev),-45991,411999,183004,2014,H,Center for Responsive Politics,,478
+N00028133,Douglas L Lamborn (R-Colo),-107991,464998,178503,2014,H,Center for Responsive Politics,,479
+N00033997,Pete Aguilar (D-Calif),-78990,429999,175504,2014,H,Center for Responsive Politics,,480
+N00029404,Lee Zeldin (R-NY),100001,250000,175000,2014,H,Center for Responsive Politics,,481
+N00031998,Chris Gibson (R-NY),100001,250000,175000,2014,H,Center for Responsive Politics,,482
+N00001746,Chaka Fattah (D-Pa),100001,250000,175000,2014,H,Center for Responsive Politics,,483
+N00031265,Robert Hurt (R-Va),27014,314999,171006,2014,H,Center for Responsive Politics,,484
+N00030880,Trey Gowdy (R-SC),-49999,384998,167499,2014,H,Center for Responsive Politics,,485
+N00000153,Richard E Neal (D-Mass),83010,249000,166005,2014,H,Center for Responsive Politics,,486
+N00033532,James Bridenstine (R-Okla),30003,299999,165001,2014,H,Center for Responsive Politics,,487
+N00007635,Amata Coleman Radewagen (R-AS),19019,285000,152009,2014,H,Center for Responsive Politics,,488
+N00027467,Timothy J Walz (D-Minn),33007,269999,151503,2014,H,Center for Responsive Politics,,489
+N00006701,Mark A Takano (D-Calif),16005,286998,151501,2014,H,Center for Responsive Politics,,490
+N00027523,Albio Sires (D-NJ),81005,216000,148502,2014,H,Center for Responsive Politics,,491
+N00033839,Marc Veasey (D-Texas),-62975,351998,144511,2014,H,Center for Responsive Politics,,492
+N00012942,Betty McCollum (D-Minn),39011,235000,137005,2014,H,Center for Responsive Politics,,493
+N00009738,John Culberson (R-Texas),-143996,409998,133001,2014,H,Center for Responsive Politics,,494
+N00031417,Will Hurd (R-Texas),16017,241000,128508,2014,H,Center for Responsive Politics,,495
+N00006882,Buck McKeon (R-Calif),67005,181000,124002,2014,H,Center for Responsive Politics,,496
+N00005656,Joe Barton (R-Texas),67004,180000,123502,2014,H,Center for Responsive Politics,,497
+N00007232,Lois Capps (D-Calif),-3962987,4207999,122506,2014,H,Center for Responsive Politics,,498
+N00037003,Trent Kelly (R-Miss),-164996,404996,120000,2014,H,Center for Responsive Politics,,499
+N00026961,Yvette D Clarke (D-NY),66003,165000,115501,2014,H,Center for Responsive Politics,,500
+N00025175,Michael R Turner (R-Ohio),-15993,229998,107002,2014,H,Center for Responsive Politics,,501
+N00001003,Eliot L Engel (D-NY),-130993,344998,107002,2014,H,Center for Responsive Politics,,502
+N00007151,Dana Rohrabacher (R-Calif),-13998,224998,105500,2014,H,Center for Responsive Politics,,503
+N00032022,Kristi Noem (R-SD),-476990,669999,96504,2014,H,Center for Responsive Politics,,504
+N00026163,Lynn A Westmoreland (R-Ga),52003,130000,91001,2014,H,Center for Responsive Politics,,505
+N00007248,Devin Nunes (R-Calif),51002,115000,83001,2014,H,Center for Responsive Politics,,506
+N00030670,Todd Young (R-Ind),-495992,646998,75503,2014,H,Center for Responsive Politics,,507
+N00031104,Randy Hultgren (R-Ill),50001,100000,75000,2014,H,Center for Responsive Politics,,508
+N00001813,Jose E Serrano (D-NY),50001,100000,75000,2014,H,Center for Responsive Politics,,509
+N00012460,William L Clay Jr (D-Mo),20006,125000,72503,2014,H,Center for Responsive Politics,,510
+N00029632,Gregg Harper (R-Miss),-213997,354999,70501,2014,H,Center for Responsive Politics,,511
+N00027649,Tim Huelskamp (R-Kan),-177991,289998,56003,2014,H,Center for Responsive Politics,,512
+N00034746,Ron DeSantis (R-Fla),-11996,119999,54001,2014,H,Center for Responsive Politics,,513
+N00002674,Sanford Bishop (D-Ga),-168993,265998,48502,2014,H,Center for Responsive Politics,,514
+N00008028,Sam Johnson (R-Texas),17003,80000,48501,2014,H,Center for Responsive Politics,,515
+N00032243,Jody B Hice (R-Ga),-167995,264998,48501,2014,H,Center for Responsive Politics,,516
+N00009816,Chris Smith (R-NJ),47722,47722,47722,2014,H,Center for Responsive Politics,,517
+N00035431,Seth Moulton (D-Mass),-74989,169998,47504,2014,H,Center for Responsive Politics,,518
+N00030581,Mike Quigley (D-Ill),1,84999,42500,2014,H,Center for Responsive Politics,,519
+N00025292,Rob Bishop (R-Utah),16002,65000,40501,2014,H,Center for Responsive Politics,,520
+N00000939,Jerrold Nadler (D-NY),2003,70000,36001,2014,H,Center for Responsive Politics,,521
+N00001821,Steny H Hoyer (D-Md),15003,52000,33501,2014,H,Center for Responsive Politics,,522
+N00004118,Debbie Stabenow (D-Mich),15001,50000,32500,2014,S,Center for Responsive Politics,,523
+N00031559,Jaime Herrera Beutler (R-Wash),15001,50000,32500,2014,H,Center for Responsive Politics,,524
+N00006863,Tom McClintock (R-Calif),-45995,109999,32002,2014,H,Center for Responsive Politics,,525
+N00028257,Keith Ellison (D-Minn),3006,48000,25503,2014,H,Center for Responsive Politics,,526
+N00030949,Tom Reed (R-NY),-332993,380998,24002,2014,H,Center for Responsive Politics,,527
+N00035934,John Katko (R-NY),3003,45000,24001,2014,H,Center for Responsive Politics,,528
+N00027060,Brian M Higgins (D-NY),-43993,75999,16003,2014,H,Center for Responsive Politics,,529
+N00002577,John Lewis (D-Ga),1005,19000,10002,2014,H,Center for Responsive Politics,,530
+N00030196,Paul Tonko (D-NY),1001,15000,8000,2014,H,Center for Responsive Politics,,531
+N00028249,Donna Edwards (D-Md),8,8000,4004,2014,H,Center for Responsive Politics,,532
+N00002713,Corrine Brown (D-Fla),-12998,20000,3501,2014,H,Center for Responsive Politics,,533
+N00036107,Norma Torres (D-Calif),-284996,286998,1001,2014,H,Center for Responsive Politics,,534
+N00027848,Hank Johnson (D-Ga),0,0,0,2014,H,Center for Responsive Politics,,535
+N00029258,Duncan D Hunter (R-Calif),0,0,0,2014,H,Center for Responsive Politics,,536
+N00030770,Rick Crawford (R-Ark),0,0,0,2014,H,Center for Responsive Politics,,537
+N00031006,Alan Nunnelee (R-Miss),0,0,0,2014,H,Center for Responsive Politics,,538
+N00001171,Gregory W Meeks (D-NY),0,0,0,2014,H,Center for Responsive Politics,,539
+N00004887,Bobby L Rush (D-Ill),0,0,0,2014,H,Center for Responsive Politics,,540
+N00026914,Gwen Moore (D-Wis),0,0,0,2014,H,Center for Responsive Politics,,541
+N00029513,Andre Carson (D-Ind),-47996,16999,-15498,2014,H,Center for Responsive Politics,,542
+N00035347,Barry Loudermilk (R-Ga),-81996,44999,-18498,2014,H,Center for Responsive Politics,,543
+N00009660,Steve Scalise (R-La),-61997,19999,-20999,2014,H,Center for Responsive Politics,,544
+N00025337,Mario Diaz-Balart (R-Fla),-48999,-1,-24500,2014,H,Center for Responsive Politics,,545
+N00035307,Brendan Boyle (D-Pa),-1254983,1204988,-24997,2014,H,Center for Responsive Politics,,546
+N00033983,Kyrsten Sinema (D-Ariz),-50000,-15001,-32500,2014,H,Center for Responsive Politics,,547
+N00030967,Sean P Duffy (R-Wis),-133997,64998,-34499,2014,H,Center for Responsive Politics,,548
+N00013345,Steve Israel (D-NY),-119998,34998,-42500,2014,H,Center for Responsive Politics,,549
+N00029835,Martin Heinrich (D-NM),-222987,135999,-43494,2014,S,Center for Responsive Politics,,550
+N00004029,John Conyers Jr (D-Mich),-65000,-25001,-45000,2014,H,Center for Responsive Politics,,551
+N00031064,Ryan Costello (R-Pa),-680985,584996,-47994,2014,H,Center for Responsive Politics,,552
+N00033508,Eric Swalwell (D-Calif),-97998,-20001,-58999,2014,H,Center for Responsive Politics,,553
+N00035311,Mark Walker (R-NC),-132997,14998,-58999,2014,H,Center for Responsive Politics,,554
+N00033316,Joaquin Castro (D-Texas),-112998,-10002,-61500,2014,H,Center for Responsive Politics,,555
+N00036995,Scott Walker (R),-243992,69999,-86996,2014,E,Center for Responsive Politics,,556
+N00035000,Stacey Plaskett (D-VI),-150000,-65002,-107501,2014,H,Center for Responsive Politics,,557
+N00026148,Louis B Gohmert Jr (R-Texas),-150000,-65002,-107501,2014,H,Center for Responsive Politics,,558
+N00001380,Rick Santorum (R),-1276973,869998,-203487,2014,E,Center for Responsive Politics,,559
+N00031377,Raul Labrador (R-Idaho),-392993,-40004,-216498,2014,H,Center for Responsive Politics,,560
+N00037007,Martin O'Malley (D),-681995,194995,-243500,2014,E,Center for Responsive Politics,,561
+N00031513,Renee Ellmers (R-NC),-477995,-15002,-246498,2014,H,Center for Responsive Politics,,562
+N00006008,Ruben Hinojosa (D-Texas),-5560868,1339993,-2110437,2014,H,Center for Responsive Politics,,563
+N00026790,Emanuel Cleaver (D-Mo),-4602988,104998,-2248995,2014,H,Center for Responsive Politics,,564
+N00002884,Alcee L Hastings (D-Fla),-7348999,-2115006,-4732002,2014,H,Center for Responsive Politics,,565
+N00033367,David Valadao (R-Calif),-45848997,-4485010,-25167003,2014,H,Center for Responsive Politics,,566

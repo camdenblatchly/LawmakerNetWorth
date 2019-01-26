@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<script src="https://d3js.org/d3.v4.js"></script>
+	<link rel="stylesheet" href="css/stylesheet.css">
+	<style> /* set the CSS */
+
+		@font-face {
+		  font-family: 'Futura';
+		  src: url('src/Futura-Light.woff') format('woff');
+		}
+
+		* {
+			font-family: 'Futura';
+		}
+
+	</style>
+</head>
+<body>
+	<h1>Congressional Net Worth</h1>
+	<h2>Breaking down the data on the net worth of US Lawmakers</h2>
+	<div class="line_container">
+		<div class="charts">
+			<div class="wrapper">
+				<h3 id="top-title">Median and Average Net Worth of US Congress Members</h3>
+				<div class="chart" id="plot1"></div>
+			</div>
+			<div>
+				<div class="wrapper">
+					<h3>Lawmaker Net Worth Against US Census Subsets</h3>
+					<button id="all_med_button" class="line_button" type="button">Median</button>
+					<button id="all_avg_button" class="line_button" type="button">Average</button>
+				<div class="chart" id="plot4"></div>
+				<div class="chart" id="plot5"></div>
+				</div>
+			</div>
+			<div>
+				<div class="wrapper">
+					<h3>Median and Average Net Worth By Party</h3>
+					<button id="con_med_button" class="line_button" type="button">Median</button>
+					<button id="con_avg_button" class="line_button" type="button">Average</button>
+				<div class="chart" id="plot2"></div>
+				<div class="chart" id="plot3"></div>
+				</div>
+			</div>
+		</div>
+		<div class="words">
+			<p>
+				<br><br>
+				Future lawmaker Alexandria Ocasio-Cortez made headlines this November when she
+				announced that she will not be able to afford rent in Washington, DC, 
+				until she assumes office in January. With a net worth around $7,000, per 
+				CNBC, Ocasio-Cortez is almost 160 times less wealthy than the median
+				wealth of a US Congress member, according to 2014 data from the Center for 
+				Responsive Politics.
+				<br><br>
+				The knowledge that US Congress members are exceedingly wealthy is unsurprising, 
+				but the depth and extent of their wealth is astonishing. The median net worth 
+				of Congress members was $831k more in 2013 than the median net worth of college-educated 
+				Americans and $969k more than the median net worth of all Americans.
+				<br><br>
+				When looking at average net worth, this gap increases dramatically. Buoyed by 
+				the incredible wealth of multi-millionaires like Darrell Issa (R, CA) and Jared 
+				Polis (D, CO), both of whom are worth more than $375M, the average net worth of
+				US Congress members in 2013 outpaces even the top decile of US households and by 
+				$352k.
+				<br><br>
+				The chart to the left shows this trend, plotting the median and average net worth
+				of US lawmakers, estimated by the Center for Responsive Politics from 2004 to 2013,
+				against US Census data for the net worth of all Americans and those 
+				who are college-educated or in the top decile of wealth. Notably, the net worth of 
+				every subset of the US population decreases after 2007, largely due to the housing 
+				collapse and ensuing financial crisis. 
+				<br><br>
+				Along party lines, a split also exists between the median net worth of Republicans 
+				and Democrats, with Republicans holding a gap of roughly $300k from 2004 to 2008. 
+				After 2009, this gap has largely closed with the median net worth of Democrats 
+				rising to meet the median net worth of Republicans. When considering average net worth, 
+				this gap flips, with the average net worth of
+				Democratic Congress members dominating Republican Congress members for all but 
+				two years from 2004 to 2014.
+				<br><br>
+				The interactive chart below highlights the outliers in Congress, mapping the area of each 
+				bubble to the net worth of the lawmaker. While many members of Congress are multi-millionaires, 
+				several members are also in debt (their net worth is represented by a black bubble). Notably, 
+				David Valadao, a California Representative and Dairy Farmer, has a net worth of roughly $25M, due to 
+				lines of credit for his farm.
+				<br><br>
+				To learn more about the net worth of Congress, explore the chart below, 
+				using the toolbar to discover different views of the data.
+			</p>
+		</div>
+	</div>
+	<iframe src="http://camdenblatchly.georgetown.domains/Understanding_The_Wealth_Of_Congress/index.html" 
+	style="border:none;" height="640" width="100%" scrolling="no" style="overflow:hidden;"></iframe>
+
+	 <script src="src/line_charts.js"></script>
+
+
+</body>
